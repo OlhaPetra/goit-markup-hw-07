@@ -8,7 +8,7 @@
 .project__link {
   display: block;
   transition: box-shadow $animation;
-  @extend %link;
+  @extend %link--no-focus;
 
   &:hover,
   &:focus {

@@ -14,6 +14,7 @@
 }
 
 .footer__logo-link {
+  display: block;
   margin-bottom: 20px;
 }
 
@@ -55,7 +56,7 @@
   margin-right: 100px;
 }
 
-.company-social {
+.footer__title {
   margin-bottom: 20px;
 
   font-size: 14px;
@@ -66,32 +67,32 @@
   color: $dark-bcg-text;
 }
 
-.footer-social-list {
+.footer-social__list {
   display: flex;
   @extend %list;
 }
 
-.footer-social-item:not(:last-child) {
+.footer-social__item:not(:last-child) {
   margin-right: 10px;
 }
 
-.footer-social-link {
+.footer-social__link {
   @extend %social;
   border: 1px solid transparent;
   background: rgba(255, 255, 255, 0.1);
-  transition: background-color var(--animation);
 }
 
-.footer-social-link:hover,
-.footer-social-link:focus {
-  background-color: $accent-color;
-}
-
-.footer-social-icon {
+.footer-social__icon {
   fill: $dark-bcg-text;
 }
 
-.sign-input {
+.sign__form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sign__input {
   width: 358px;
   height: 50px;
   padding: 15px;
@@ -106,40 +107,34 @@
   letter-spacing: 0.03em;
   outline: none;
   transition: border-color $animation;
+
+  &:focus {
+    border-color: $accent-color;
+  }
+
+  &::placeholder {
+    font-size: 16px;
+    line-height: 1.25;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.6);
+  }
 }
 
-.sign-input:focus {
-  border-color: $accent-color;
-}
-
-.sign-form {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.sign-button-text {
+.sign__button--text {
   position: relative;
 }
 
-.sign-button {
+.sign__button {
+  @extend %accent__button;
   text-align: start;
   width: 200px;
   height: 50px;
   padding-right: 29px;
   padding-top: 10px;
   padding-bottom: 10px;
-  cursor: pointer;
 }
 
-.sign-input::placeholder {
-  font-size: 16px;
-  line-height: 1.25;
-  letter-spacing: 0.03em;
-  color: rgba(255, 255, 255, 0.6);
-}
-
-.sign-icon {
+.sign__icon {
   position: absolute;
   top: 50%;
   right: 25px;
