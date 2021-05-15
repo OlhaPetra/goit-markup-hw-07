@@ -94,7 +94,7 @@
 .checkbox:checked + .checkbox-label::before {
   background-color: $accent-color;
   border: $accent-color;
-  background-image: url(../../../images/check.svg);
+  background-image: url(./../../../images/check.svg);
   background-repeat: no-repeat;
   background-position: center;
 }
