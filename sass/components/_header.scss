@@ -8,12 +8,7 @@
 }
 
 .page-header__logo-link {
-  @extend %link--no-focus;
   margin-right: 93px;
-}
-
-.page-header__logo-link--web {
-  color: $accent-color;
 }
 
 .nav,
