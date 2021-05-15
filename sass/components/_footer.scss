@@ -1,0 +1,148 @@
+.page-footer {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: $footer-bcg;
+}
+
+.footer-info {
+  display: flex;
+  align-items: baseline;
+}
+
+.footer__logo-link {
+  margin-bottom: 20px;
+}
+
+.footer-contacts--margin {
+  margin-right: 75px;
+}
+
+.footer__logo-web {
+  color: $accent-color;
+}
+.footer__logo-studio {
+  color: $dark-bcg-text;
+}
+
+.address {
+  font-style: inherit;
+}
+
+.address__list {
+  @extend %list;
+}
+
+.list-address {
+  display: block;
+}
+
+.list-address:not(:last-child) {
+  margin-bottom: 9px;
+}
+
+.footer-map,
+.footer-contact {
+  line-height: 1.71;
+}
+.footer-map {
+  color: $dark-bcg-text;
+  @extend %link;
+}
+
+.footer-contact {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.footer-social {
+  margin-right: 100px;
+}
+
+.company-social {
+  margin-bottom: 20px;
+
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+
+  color: $dark-bcg-text;
+}
+
+.footer-social-list {
+  display: flex;
+}
+
+.footer-social-item:not(:last-child) {
+  margin-right: 10px;
+}
+
+.footer-social-link {
+  @extend %social;
+  border: 1px solid transparent;
+  background: rgba(255, 255, 255, 0.1);
+  transition: background-color var(--animation);
+}
+
+.footer-social-link:hover,
+.footer-social-link:focus {
+  background-color: $accent-color;
+}
+
+.footer-social-icon {
+  fill: $dark-bcg-text;
+}
+
+.sign-input {
+  width: 358px;
+  height: 50px;
+  padding: 15px;
+  background-color: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
+  border-radius: 4px;
+  margin-right: 12px;
+  color: $dark-bcg-text;
+  font-size: 16px;
+  line-height: 1.25;
+  letter-spacing: 0.03em;
+  outline: none;
+  transition: border-color $animation;
+}
+
+.sign-input:focus {
+  border-color: $accent-color;
+}
+
+.sign-form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sign-button-text {
+  position: relative;
+}
+
+.sign-button {
+  text-align: start;
+  width: 200px;
+  height: 50px;
+  padding-right: 29px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  cursor: pointer;
+}
+
+.sign-input::placeholder {
+  font-size: 16px;
+  line-height: 1.25;
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.sign-icon {
+  position: absolute;
+  top: 50%;
+  right: 25px;
+  transform: translateY(-50%);
+}
