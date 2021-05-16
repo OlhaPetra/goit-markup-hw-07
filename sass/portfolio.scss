@@ -1,14 +1,18 @@
-@import "./base/normalize";
 @import "./utils/variable";
-@import "./utils/placeholders";
-@import "./utils/mixin";
 
-@import "./utils/module";
-@import "./utils/_visually-hidden";
-
-@import "./components/header";
+@import "./base/fonts";
+@import "./base/common";
+@import "./base/conteiner";
+@import "./components/title";
+@import "./components/buttons";
 @import "./components/logo";
+@import "./components/social";
+@import "./components/social-icon";
 
-@import "./components/portfolio/buttons";
-@import "./components/portfolio/projects";
-@import "./components/footer";
+@import "./layouts/section";
+@import "./layouts/header";
+@import "./layouts/filter-projects";
+@import "./layouts/projects";
+@import "./layouts/footer";
+
+@import "./components/sign-form";
