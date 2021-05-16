@@ -30,13 +30,13 @@
     letter-spacing: 0.03em;
     color: rgba(255, 255, 255, 0.6);
   }
+}
 
-  &:autofill,
-  &:autofill:hover,
-  &:autofill:focus {
-    color: var(--dark-bcg-text);
-    background-color: var(--footer-bcg);
-  }
+.sign-input:-webkit-autofill,
+.sign-input:-webkit-autofill:hover,
+.sign-input:-webkit-autofill:focus {
+  -webkit-text-fill-color: var(--dark-bcg-text);
+  -webkit-box-shadow: 0 0 0px 1000px var(--footer-bcg) inset;
 }
 
 .sign__button-text {
