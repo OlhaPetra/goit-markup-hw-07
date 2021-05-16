@@ -29,13 +29,14 @@
     letter-spacing: 0.03em;
     color: rgba(255, 255, 255, 0.6);
   }
-}
 
-.sign__input:-webkit-autofill,
-.sign__input:-webkit-autofill:hover,
-.sign__input:-webkit-autofill:focus {
-  -webkit-text-fill-color: var(--dark-bcg-text);
-  -webkit-box-shadow: 0 0 0px 1000px var(--footer-bcg) inset;
+  &:-webkit-autofill,
+  &:-webkit-autofill:hover,
+  &:-webkit-autofill:focus {
+    -webkit-text-fill-color: var(--dark-bcg-text);
+    -webkit-box-shadow: 0 0 0px 1000px var(--footer-bcg) inset;
+    box-shadow: 0 0 0px 1000px var(--footer-bcg) inset;
+  }
 }
 
 .sign__button-text {

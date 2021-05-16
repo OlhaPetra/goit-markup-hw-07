@@ -18,13 +18,7 @@
   font-weight: 400;
   src: url("../fonts/roboto-v27-latin_cyrillic-regular.eot");
   /* IE9 Compat Modes */
-  src: local(""),
-    url("../fonts/roboto-v27-latin_cyrillic-regular.eot?#iefix")
-      format("embedded-opentype"),
-    url("../fonts/roboto-v27-latin_cyrillic-regular.woff2") format("woff2"),
-    url("../fonts/roboto-v27-latin_cyrillic-regular.woff") format("woff"),
-    url("../fonts/roboto-v27-latin_cyrillic-regular.ttf") format("truetype"),
-    url("../fonts/roboto-v27-latin_cyrillic-regular.svg#Roboto") format("svg");
+  src: local(""), url("../fonts/roboto-v27-latin_cyrillic-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/roboto-v27-latin_cyrillic-regular.woff2") format("woff2"), url("../fonts/roboto-v27-latin_cyrillic-regular.woff") format("woff"), url("../fonts/roboto-v27-latin_cyrillic-regular.ttf") format("truetype"), url("../fonts/roboto-v27-latin_cyrillic-regular.svg#Roboto") format("svg");
   /* Legacy iOS */
 }
 
@@ -35,13 +29,7 @@
   font-weight: 400;
   src: url("../fonts/roboto-v27-latin_cyrillic-italic.eot");
   /* IE9 Compat Modes */
-  src: local(""),
-    url("../fonts/roboto-v27-latin_cyrillic-italic.eot?#iefix")
-      format("embedded-opentype"),
-    url("../fonts/roboto-v27-latin_cyrillic-italic.woff2") format("woff2"),
-    url("../fonts/roboto-v27-latin_cyrillic-italic.woff") format("woff"),
-    url("../fonts/roboto-v27-latin_cyrillic-italic.ttf") format("truetype"),
-    url("../fonts/roboto-v27-latin_cyrillic-italic.svg#Roboto") format("svg");
+  src: local(""), url("../fonts/roboto-v27-latin_cyrillic-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/roboto-v27-latin_cyrillic-italic.woff2") format("woff2"), url("../fonts/roboto-v27-latin_cyrillic-italic.woff") format("woff"), url("../fonts/roboto-v27-latin_cyrillic-italic.ttf") format("truetype"), url("../fonts/roboto-v27-latin_cyrillic-italic.svg#Roboto") format("svg");
   /* Legacy iOS */
 }
 
@@ -52,13 +40,7 @@
   font-weight: 500;
   src: url("../fonts/roboto-v27-latin_cyrillic-500.eot");
   /* IE9 Compat Modes */
-  src: local(""),
-    url("../fonts/roboto-v27-latin_cyrillic-500.eot?#iefix")
-      format("embedded-opentype"),
-    url("../fonts/roboto-v27-latin_cyrillic-500.woff2") format("woff2"),
-    url("../fonts/roboto-v27-latin_cyrillic-500.woff") format("woff"),
-    url("../fonts/roboto-v27-latin_cyrillic-500.ttf") format("truetype"),
-    url("../fonts/roboto-v27-latin_cyrillic-500.svg#Roboto") format("svg");
+  src: local(""), url("../fonts/roboto-v27-latin_cyrillic-500.eot?#iefix") format("embedded-opentype"), url("../fonts/roboto-v27-latin_cyrillic-500.woff2") format("woff2"), url("../fonts/roboto-v27-latin_cyrillic-500.woff") format("woff"), url("../fonts/roboto-v27-latin_cyrillic-500.ttf") format("truetype"), url("../fonts/roboto-v27-latin_cyrillic-500.svg#Roboto") format("svg");
   /* Legacy iOS */
 }
 
@@ -69,13 +51,7 @@
   font-weight: 700;
   src: url("../fonts/roboto-v27-latin_cyrillic-700.eot");
   /* IE9 Compat Modes */
-  src: local(""),
-    url("../fonts/roboto-v27-latin_cyrillic-700.eot?#iefix")
-      format("embedded-opentype"),
-    url("../fonts/roboto-v27-latin_cyrillic-700.woff2") format("woff2"),
-    url("../fonts/roboto-v27-latin_cyrillic-700.woff") format("woff"),
-    url("../fonts/roboto-v27-latin_cyrillic-700.ttf") format("truetype"),
-    url("../fonts/roboto-v27-latin_cyrillic-700.svg#Roboto") format("svg");
+  src: local(""), url("../fonts/roboto-v27-latin_cyrillic-700.eot?#iefix") format("embedded-opentype"), url("../fonts/roboto-v27-latin_cyrillic-700.woff2") format("woff2"), url("../fonts/roboto-v27-latin_cyrillic-700.woff") format("woff"), url("../fonts/roboto-v27-latin_cyrillic-700.ttf") format("truetype"), url("../fonts/roboto-v27-latin_cyrillic-700.svg#Roboto") format("svg");
   /* Legacy iOS */
 }
 
@@ -86,13 +62,7 @@
   font-weight: 900;
   src: url("../fonts/roboto-v27-latin_cyrillic-900.eot");
   /* IE9 Compat Modes */
-  src: local(""),
-    url("../fonts/roboto-v27-latin_cyrillic-900.eot?#iefix")
-      format("embedded-opentype"),
-    url("../fonts/roboto-v27-latin_cyrillic-900.woff2") format("woff2"),
-    url("../fonts/roboto-v27-latin_cyrillic-900.woff") format("woff"),
-    url("../fonts/roboto-v27-latin_cyrillic-900.ttf") format("truetype"),
-    url("../fonts/roboto-v27-latin_cyrillic-900.svg#Roboto") format("svg");
+  src: local(""), url("../fonts/roboto-v27-latin_cyrillic-900.eot?#iefix") format("embedded-opentype"), url("../fonts/roboto-v27-latin_cyrillic-900.woff2") format("woff2"), url("../fonts/roboto-v27-latin_cyrillic-900.woff") format("woff"), url("../fonts/roboto-v27-latin_cyrillic-900.ttf") format("truetype"), url("../fonts/roboto-v27-latin_cyrillic-900.svg#Roboto") format("svg");
   /* Legacy iOS */
 }
 
@@ -103,13 +73,7 @@
   font-weight: 400;
   src: url("../fonts/raleway-v19-latin-regular.eot");
   /* IE9 Compat Modes */
-  src: local(""),
-    url("../fonts/raleway-v19-latin-regular.eot?#iefix")
-      format("embedded-opentype"),
-    url("../fonts/raleway-v19-latin-regular.woff2") format("woff2"),
-    url("../fonts/raleway-v19-latin-regular.woff") format("woff"),
-    url("../fonts/raleway-v19-latin-regular.ttf") format("truetype"),
-    url("../fonts/raleway-v19-latin-regular.svg#Raleway") format("svg");
+  src: local(""), url("../fonts/raleway-v19-latin-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/raleway-v19-latin-regular.woff2") format("woff2"), url("../fonts/raleway-v19-latin-regular.woff") format("woff"), url("../fonts/raleway-v19-latin-regular.ttf") format("truetype"), url("../fonts/raleway-v19-latin-regular.svg#Raleway") format("svg");
   /* Legacy iOS */
 }
 
@@ -120,12 +84,7 @@
   font-weight: 700;
   src: url("../fonts/raleway-v19-latin-700.eot");
   /* IE9 Compat Modes */
-  src: local(""),
-    url("../fonts/raleway-v19-latin-700.eot?#iefix") format("embedded-opentype"),
-    url("../fonts/raleway-v19-latin-700.woff2") format("woff2"),
-    url("../fonts/raleway-v19-latin-700.woff") format("woff"),
-    url("../fonts/raleway-v19-latin-700.ttf") format("truetype"),
-    url("../fonts/raleway-v19-latin-700.svg#Raleway") format("svg");
+  src: local(""), url("../fonts/raleway-v19-latin-700.eot?#iefix") format("embedded-opentype"), url("../fonts/raleway-v19-latin-700.woff2") format("woff2"), url("../fonts/raleway-v19-latin-700.woff") format("woff"), url("../fonts/raleway-v19-latin-700.ttf") format("truetype"), url("../fonts/raleway-v19-latin-700.svg#Raleway") format("svg");
   /* Legacy iOS */
 }
 
@@ -213,9 +172,7 @@ img {
   text-align: center;
 }
 
-.button,
-.main-button,
-.modal-form__button {
+.button, .main-button, .modal-form__button {
   border-radius: 4px;
   border: none;
   font-size: 16px;
@@ -230,20 +187,16 @@ img {
   line-height: 1.62;
   text-align: center;
   letter-spacing: 0.03em;
-  transition: color var(--animation), background-color var(--animation),
-    box-shadow var(--animation);
+  transition: color var(--animation), background-color var(--animation), box-shadow var(--animation);
 }
 
-.button:hover,
-.button:focus {
+.button:hover, .button:focus {
   color: var(--dark-bcg-text);
   background-color: var(--accent-color);
-  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08),
-    0px 2px 2px rgba(0, 0, 0, 0.12);
+  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
 }
 
-.main-button,
-.modal-form__button {
+.main-button, .modal-form__button {
   padding: 10px 32px;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   color: var(--dark-bcg-text);
@@ -290,9 +243,7 @@ img {
   margin-right: 10px;
 }
 
-.social__link,
-.team-social__link,
-.footer-social__link {
+.social__link, .team-social__link, .footer-social__link {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -302,12 +253,7 @@ img {
   transition: background-color var(--animation);
 }
 
-.social__link:focus,
-.team-social__link:focus,
-.footer-social__link:focus,
-.social__link:hover,
-.team-social__link:hover,
-.footer-social__link:hover {
+.social__link:focus, .team-social__link:focus, .footer-social__link:focus, .social__link:hover, .team-social__link:hover, .footer-social__link:hover {
   background-color: var(--accent-color);
 }
 
@@ -320,21 +266,11 @@ img {
   background: rgba(255, 255, 255, 0.1);
 }
 
-.social__icon,
-.team-social__icon,
-.footer-social__icon {
+.social__icon, .team-social__icon, .footer-social__icon {
   transition: fill var(--animation);
 }
 
-.social__link:focus .social__icon,
-.team-social__link:focus .social__icon,
-.footer-social__link:focus .social__icon,
-.social__link:focus .team-social__icon,
-.team-social__link:focus .team-social__icon,
-.footer-social__link:focus .team-social__icon,
-.social__link:focus .footer-social__icon,
-.team-social__link:focus .footer-social__icon,
-.footer-social__link:focus .footer-social__icon,
+.social__link:focus .social__icon, .team-social__link:focus .social__icon, .footer-social__link:focus .social__icon, .social__link:focus .team-social__icon, .team-social__link:focus .team-social__icon, .footer-social__link:focus .team-social__icon, .social__link:focus .footer-social__icon, .team-social__link:focus .footer-social__icon, .footer-social__link:focus .footer-social__icon,
 .social__link:hover .social__icon,
 .team-social__link:hover .social__icon,
 .footer-social__link:hover .social__icon,
@@ -426,12 +362,7 @@ img {
   padding-top: 200px;
   padding-bottom: 200px;
   text-align: center;
-  background-image: linear-gradient(
-      to top,
-      rgba(47, 48, 58, 0.4),
-      rgba(47, 48, 58, 0.4)
-    ),
-    url(../images/hero-bcg.jpg);
+  background-image: linear-gradient(to top, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../images/hero-bcg.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 1600px 600px;
@@ -514,8 +445,7 @@ img {
   margin-right: 30px;
   margin-bottom: 30px;
   background-color: var(--primary-bcg-color);
-  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14),
-    0px 2px 1px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
   border-radius: 0px 0px 4px 4px;
 }
 
@@ -528,8 +458,7 @@ img {
   padding-right: 15px;
 }
 
-.team__name,
-.team__position {
+.team__name, .team__position {
   text-align: center;
   font-size: 16px;
   line-height: 1.19;
@@ -564,8 +493,7 @@ img {
   transition: border var(--animation);
 }
 
-.clients__link:hover,
-.clients__link:focus {
+.clients__link:hover, .clients__link:focus {
   border: 1px solid var(--accent-color);
 }
 
@@ -670,11 +598,10 @@ img {
   color: rgba(255, 255, 255, 0.6);
 }
 
-.sign__input:autofill,
-.sign__input:autofill:hover,
-.sign__input:autofill:focus {
-  color: var(--dark-bcg-text);
-  background-color: var(--footer-bcg);
+.sign__input:-webkit-autofill, .sign__input:-webkit-autofill:hover, .sign__input:-webkit-autofill:focus {
+  -webkit-text-fill-color: var(--dark-bcg-text);
+  -webkit-box-shadow: 0 0 0px 1000px var(--footer-bcg) inset;
+  box-shadow: 0 0 0px 1000px var(--footer-bcg) inset;
 }
 
 .sign__button-text {
@@ -724,8 +651,7 @@ img {
   width: 528px;
   height: 581px;
   background: var(--primary-bcg-color);
-  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14),
-    0px 2px 1px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
   border-radius: 4px;
 }
 
@@ -744,8 +670,7 @@ img {
   background: var(--primary-bcg-color);
 }
 
-.modal__close:focus,
-.modal__close:hover {
+.modal__close:focus, .modal__close:hover {
   cursor: pointer;
 }
 
@@ -803,10 +728,9 @@ img {
   border-color: var(--accent-color);
 }
 
-.modal-form__input:autofill,
-.modal-form__input:autofill:hover,
-.modal-form__input:autofill:focus {
-  color: var(--primary-title-color);
+.modal-form__input:-webkit-autofill, .modal-form__input:-webkit-autofill:hover, .modal-form__input:-webkit-autofill:focus {
+  -webkit-text-fill-color: var(--primary-title-color);
+  -webkit-box-shadow: 0 0 0px 1000px var(--primary-bcg-color) inset;
   box-shadow: 0 0 0px 1000px var(--primary-bcg-color) inset;
 }
 
@@ -851,8 +775,7 @@ img {
   height: 15px;
   border: 2px solid var(--primary-title-color);
   border-radius: 2px;
-  transition: background-color var(--animation),
-    background-image var(--animation);
+  transition: background-color var(--animation), background-image var(--animation);
 }
 
 .checkbox:checked + .checkbox__label::before {
@@ -866,6 +789,8 @@ img {
 .checkbox:focus + .checkbox__label::before {
   border: 2px solid var(--accent-color);
 }
+
 .checkbox__agreement {
   color: var(--accent-color);
 }
+/*# sourceMappingURL=main.css.map */

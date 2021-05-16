@@ -521,9 +521,10 @@ img {
   color: rgba(255, 255, 255, 0.6);
 }
 
-.sign__input:autofill, .sign__input:autofill:hover, .sign__input:autofill:focus {
-  color: var(--dark-bcg-text);
-  background-color: var(--footer-bcg);
+.sign__input:-webkit-autofill, .sign__input:-webkit-autofill:hover, .sign__input:-webkit-autofill:focus {
+  -webkit-text-fill-color: var(--dark-bcg-text);
+  -webkit-box-shadow: 0 0 0px 1000px var(--footer-bcg) inset;
+  box-shadow: 0 0 0px 1000px var(--footer-bcg) inset;
 }
 
 .sign__button-text {
