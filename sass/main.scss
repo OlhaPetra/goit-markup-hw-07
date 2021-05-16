@@ -1,11 +1,13 @@
 @import "./base/normalize";
 @import "./utils/variable";
 @import "./utils/module";
-@import "./utils/_visually-hidden";
+@import "./utils/visually-hidden";
 @import "./utils/placeholders";
 @import "./utils/mixin";
 
 @import "./components/header";
+@import "./components/logo";
+
 @import "./components/index/hero";
 @import "./components/index/features";
 @import "./components/index/work";

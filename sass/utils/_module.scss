@@ -52,18 +52,6 @@ img {
   @extend %list;
 }
 
-.logo-link {
-  font-family: Raleway;
-  font-weight: 700;
-  font-size: 26px;
-  line-height: 1.19;
-  @extend %link--no-focus;
-}
-
-.logo-link--web {
-  color: $accent-color;
-}
-
 .title {
   margin-bottom: 50px;
 
