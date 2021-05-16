@@ -431,7 +431,7 @@ img {
       rgba(47, 48, 58, 0.4),
       rgba(47, 48, 58, 0.4)
     ),
-    url(../../images/hero-bcg.jpg);
+    url(../images/hero-bcg.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 1600px 600px;
@@ -858,7 +858,7 @@ img {
 .checkbox:checked + .checkbox__label::before {
   background-color: var(--accent-color);
   border: var(--accent-color);
-  background-image: url(../images/check.svg
+  background-image: url(../images/check.svg);
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -869,4 +869,3 @@ img {
 .checkbox__agreement {
   color: var(--accent-color);
 }
-  border: 2px solid var(--accent-col
