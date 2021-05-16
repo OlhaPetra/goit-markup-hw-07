@@ -19,7 +19,6 @@
   letter-spacing: 0.03em;
   outline: none;
   transition: border-color var(--animation);
-
   &:focus {
     border-color: var(--accent-color);
   }
@@ -32,9 +31,9 @@
   }
 }
 
-.sign-input:-webkit-autofill,
-.sign-input:-webkit-autofill:hover,
-.sign-input:-webkit-autofill:focus {
+.sign__input:-webkit-autofill,
+.sign__input:-webkit-autofill:hover,
+.sign__input:-webkit-autofill:focus {
   -webkit-text-fill-color: var(--dark-bcg-text);
   -webkit-box-shadow: 0 0 0px 1000px var(--footer-bcg) inset;
 }

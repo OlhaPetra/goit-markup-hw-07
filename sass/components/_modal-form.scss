@@ -42,12 +42,6 @@
   &:focus {
     border-color: var(--accent-color);
   }
-  &:autofill,
-  &:autofill:hover,
-  &:autofill:focus {
-    color: var(--primary-title-color);
-    box-shadow: 0 0 0px 1000px var(--primary-bcg-color) inset;
-  }
 }
 
 .modal-form__icon {
